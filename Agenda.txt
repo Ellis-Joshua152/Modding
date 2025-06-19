@@ -1,0 +1,47 @@
+This file is to cover what is planned for the future,
+what has been completed, Ideas for future projects, 
+as well as what is currently being worked on.
+
+-------------------------------------------------------
+
+Current Project:
+
+    Create a simple trait in Zomboid.
+
+-------------------------------------------------------
+
+Completed Projects:
+
+    X
+
+-------------------------------------------------------
+
+Future Projects:
+
+Zomboid:
+    Create a trait
+    Create a simple class
+    Create a class
+        Helldiver plus relevant traits
+    Create a re-skinned weapon
+    Create a lightsaber
+    Create a food and recipe
+    Create a class
+        Alchemist plus relevant trait
+        Create recipes for crafting potions
+    Create clothes
+        Poncho or umbrella hat
+    
+
+-------------------------------------------------------
+
+Uncheduled Projects/Ideas:
+
+Zomboid:
+    Create an alcohol crafting system with workbench 
+        Create any ingredients needed for crafting alcohol
+        Create distillery and Barrels
+        Create Recipes for crafting alcohol at workbench
+
+Barotrauma:
+    *Suggestions Welcome*
