@@ -19,18 +19,23 @@ Completed Projects:
 Future Projects:
 
 Zomboid:
-    Create a trait
-    Create a simple class
-    Create a class
-        Helldiver plus relevant traits
+    Create a more advanced trait
+    Create a simple class    
     Create a re-skinned weapon
     Create a lightsaber
     Create a food and recipe
-    Create a class
-        Alchemist plus relevant trait
-        Create recipes for crafting potions
-    Create clothes
+    Create simple clothing
         Poncho or umbrella hat
+    Create a more advanced class
+        Ninja plus traits
+        Helldiver plus relevant traits
+        Alchemist plus relevant trait
+            Create recipes for crafting potions
+
+    Create clothes
+        Helldiver Outfit
+        Ninja Outfit
+        LARPing Outfit
     
 
 -------------------------------------------------------
@@ -42,6 +47,7 @@ Zomboid:
         Create any ingredients needed for crafting alcohol
         Create distillery and Barrels
         Create Recipes for crafting alcohol at workbench
+    Create a super reach meme weapon
 
 Barotrauma:
     *Suggestions Welcome*
