@@ -1,4 +1,5 @@
 name=LARPer Trait
 poster=poster.png
-description=A tailor, who also has skill with blades. (Larper: +2 Tailoring, +1 Long Blade, +4 Points to Start.)
+icon=LARPer.png
+description=A tailor, who also has skill with blades. (Larper: +2 Tailoring, +1 Long Blade, +1 Short Blade, costs -3.)
 id=NightBasicLarper
