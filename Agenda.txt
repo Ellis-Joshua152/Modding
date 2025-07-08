@@ -6,27 +6,26 @@ as well as what is currently being worked on.
 
 Current Project:
 
-    Create a simple trait in Zomboid.
+    Create a more advanced trait
 
 -------------------------------------------------------
 
 Completed Projects:
 
-    X
+    Create a simple trait in Zomboid.
 
 -------------------------------------------------------
 
 Future Projects:
 
 Zomboid:
-    Create a more advanced trait
-    Create a simple class    
+    Create a simple Occupation    
     Create a re-skinned weapon
     Create a lightsaber
     Create a food and recipe
     Create simple clothing
         Poncho or umbrella hat
-    Create a more advanced class
+    Create a more advanced Occupation
         Ninja plus traits
         Helldiver plus relevant traits
         Alchemist plus relevant trait
@@ -40,7 +39,7 @@ Zomboid:
 
 -------------------------------------------------------
 
-Uncheduled Projects/Ideas:
+Unscheduled Projects/Ideas:
 
 Zomboid:
     Create an alcohol crafting system with workbench 
