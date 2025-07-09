@@ -1,0 +1,14 @@
+ProfessionFramework.addTrait('Gamer', {
+    name = "Gamer",
+    description = "Knows electronics and has 'training' in many forms of combat.",
+    icon = "trait_Gamer",
+    cost =  5,
+    xp = {
+		[Perks.Electrical] = 2,
+		[Perks.Blunt] = 1,
+		[Perks.SmallBlade] = 1,
+		[Perks.Spear] = 1,
+		[Perks.Reloading] = 1,
+		[Perks.Aiming] = 1,
+    },
+})
