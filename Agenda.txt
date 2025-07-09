@@ -6,19 +6,20 @@ as well as what is currently being worked on.
 
 Current Project:
 
-    Create a more advanced trait
+    Create an intermediate trait (Gamer)
 
 -------------------------------------------------------
 
 Completed Projects:
 
-    Create a simple trait in Zomboid.
+    Create a simple trait in Zomboid. (LARPer)
 
 -------------------------------------------------------
 
 Future Projects:
 
 Zomboid:
+    Create an advanced trait
     Create a simple Occupation    
     Create a re-skinned weapon
     Create a lightsaber
