@@ -1,5 +1,5 @@
 name=Gamer Trait
 poster=poster.png
 icon=Gamer.png
-description=A gamer, knowledgable in fighting and tech. (Gamer: +2 Electrical, +1 Spear, +1 Long Blunt, +1 Short Blade, +1 Reloading. +1 Aiming, costs -5.)
+description=A gamer, knowledgable in fighting and tech. (Gamer: +1 Long Blunt, +1 Reloading. +1 Aiming, costs -4.)
 id=NightBasicGamer
