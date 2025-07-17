@@ -1,5 +1,5 @@
-name=Placeholder Trait
+name=Cameron Trait
 poster=poster.png
-icon=Placeholder.png
-description=A Placeholder. (Placeholder: +2 Electrical, +1 Spear, +1 Long Blunt, +1 Short Blade, +1 Reloading. +1 Aiming, costs -5.)
-id=NightBasicPlaceholder
+icon=Cameron.png
+description=A trait to make cameron OP.
+id=NightBasicCameron
