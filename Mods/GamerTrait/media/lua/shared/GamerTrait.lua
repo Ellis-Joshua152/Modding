@@ -8,6 +8,9 @@ ProfessionFramework.addTrait('Gamer', {
 		    [Perks.Reloading] = 1,
 		    [Perks.Aiming] = 1,
     },
+    inventory = {
+        "Base.Hammer",
+        "Base.VideoGame",
+        "Base.Headphones"
+    }
 })
-
-
