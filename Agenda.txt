@@ -13,12 +13,15 @@ Current Project:
 Completed Projects:
 
     Create a simple trait in Zomboid. (LARPer)
+    Create a mod to make a friend OP. 
+        (One Punch Man Training Regiment)
 
 -------------------------------------------------------
 
 Future Projects:
 
 Zomboid:
+    Figure out how to make traits/occupations without PF.
     Create an advanced trait
     Create a simple Occupation    
     Create a re-skinned weapon
