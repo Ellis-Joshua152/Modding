@@ -6,7 +6,7 @@ as well as what is currently being worked on.
 
 Current Project:
 
-    Create an intermediate trait (Gamer)
+    Create a re-skinned weapon
 
 -------------------------------------------------------
 
@@ -15,6 +15,8 @@ Completed Projects:
     Create a simple trait in Zomboid. (LARPer)
     Create a mod to make a friend OP. 
         (One Punch Man Training Regiment)
+    Create an intermediate trait (Gamer)
+
 
 -------------------------------------------------------
 
