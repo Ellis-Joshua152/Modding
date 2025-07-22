@@ -8,10 +8,4 @@ ProfessionFramework.addTrait('Gamer', {
         [Perks.Reloading] = 1,
         [Perks.Aiming] = 1,
     },
-    OnApply = function(player)
-        local inv = player:getInventory()
-        inv:AddItem("Base.Hammer")
-        inv:AddItem("Base.VideoGame")
-        inv:AddItem("Base.Headphones")
-    end
 })

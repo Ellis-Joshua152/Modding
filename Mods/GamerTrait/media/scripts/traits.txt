@@ -1,7 +1,0 @@
-trait Gamer
-{
-    name = Gamer
-    description = "Knows all electronics and has 'training' in many forms of combat."
-    cost = 4
-    icon = trait_Gamer
-}
