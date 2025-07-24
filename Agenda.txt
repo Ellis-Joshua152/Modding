@@ -6,7 +6,7 @@ as well as what is currently being worked on.
 
 Current Project:
 
-    Create a re-skinned weapon
+    Create a re-skinned (copy) weapon (Mashoonga)
 
 -------------------------------------------------------
 
