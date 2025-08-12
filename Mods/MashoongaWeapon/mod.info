@@ -1,6 +1,6 @@
-name=Custom Weapon Skins
-id=customweaponskins
-description=Replaces the default weapon textures with custom ones. Includes a new look for the pistol and other weapons.
+name=Mashoonga Weapon Skins
+id=Mashoonga_Weapon
+description=Creates a mashoonga weapon with stats similar to a baseball bat.
 poster=poster.png
 version=1.0
 category=Weapons
