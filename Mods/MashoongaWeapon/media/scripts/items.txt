@@ -7,6 +7,11 @@ module MashoongaWeapon
 
     item MashoongaBat
     {
+        DisplayName = Mashoonga Bat,
+        Type = Weapon,
+        Icon = mashoonga_icon,
 
+        Texture = Mashoonga_bat,
+        TextureAtlas = Mashoonga_bat,
     }
 }
