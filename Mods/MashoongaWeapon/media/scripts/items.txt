@@ -9,7 +9,7 @@ module MashoongaWeapon
     {
         DisplayName = Mashoonga Bat,
         Type = Weapon,
-        Icon = mashoonga_icon,
+        Icon = Mashoonga_icon,
         MaxRange = 1.25,
         MinRange = 0.61,
         Weight = 2.0,
@@ -32,7 +32,7 @@ module MashoongaWeapon
         MaxAngle = 1.0,
         WeaponLength = 0.4,
         ImpactSound = BaseballBatHit,
-        Texture = Mashoonga_bat,
-        TextureAtlas = Mashoonga_bat,
+        Texture = Mashoonga_bat.png,
+        TextureAtlas = Mashoonga_bat.png,
     }
 }
